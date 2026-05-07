@@ -1,0 +1,35 @@
+[gd_resource type="TileSet" format=3 uid="uid://bukoncg1eerap"]
+
+[ext_resource type="Texture2D" uid="uid://dtja343abrbk5" path="res://sprites/Seasonal Tilesets/1 - Grassland/Grassland_entities (16 x 16).png" id="1_h8vpa"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_tdm40"]
+texture = ExtResource("1_h8vpa")
+15:2/0 = 0
+16:2/0 = 0
+17:2/0 = 0
+14:4/0 = 0
+15:4/0 = 0
+16:4/0 = 0
+17:4/0 = 0
+18:4/0 = 0
+1:5/0 = 0
+3:5/0 = 0
+5:5/0 = 0
+6:5/0 = 0
+7:5/0 = 0
+9:5/0 = 0
+10:5/0 = 0
+11:5/0 = 0
+12:5/0 = 0
+14:5/0 = 0
+16:5/0 = 0
+18:5/0 = 0
+1:1/size_in_atlas = Vector2i(3, 3)
+1:1/0 = 0
+5:1/size_in_atlas = Vector2i(3, 3)
+5:1/0 = 0
+9:1/size_in_atlas = Vector2i(3, 3)
+9:1/0 = 0
+
+[resource]
+sources/0 = SubResource("TileSetAtlasSource_tdm40")
